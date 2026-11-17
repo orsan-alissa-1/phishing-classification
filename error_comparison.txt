@@ -1,0 +1,12 @@
+
+Legitimate (877 records)
+Both correct: 412
+URL only correct: 36
+URL + HTML only correct: 384
+Both wrong: 45
+
+Phishing (697 records)
+Both correct: 464
+URL only correct: 125
+URL + HTML only correct: 95
+Both wrong: 13
