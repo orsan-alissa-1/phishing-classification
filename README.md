@@ -99,4 +99,3 @@ UCI distributes the dataset under [CC BY 4.0](https://creativecommons.org/licens
 
 Orsan Al Issa
 
-No software licence has been selected for the project code. The dataset licence applies separately to the dataset materials.
